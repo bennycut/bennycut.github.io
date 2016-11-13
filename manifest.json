@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "short_name": "",
+  "icons": [{
+      "src": "/data/images/logo_BN.png",
+      "sizes": "110x128",
+      "type": "image/png"
+    }, {
+      "src": "/data/images/logo_BN.png",
+      "sizes": "172x192",
+      "type": "image/png"
+    },{
+      "src": "/data/images/logo_BN.png",
+      "sizes": "354x384",
+      "type": "image/png"
+    }],
+  "start_url": "/",
+  "background_color": "#fff",
+  "display": "standalone",
+  "theme_color": "#fff"
+}
